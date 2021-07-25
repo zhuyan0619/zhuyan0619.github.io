@@ -140,10 +140,10 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #a03c15;
 }
 
-/* main blockqoute */
+/* main blockqoute   #004d40    */
 
 /* blockquote {
   border-left: 5px solid #795548;
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #99330b !important;
+  border-bottom: 3px solid #004d40 !important;
 }
 /*#004d40*/
 
