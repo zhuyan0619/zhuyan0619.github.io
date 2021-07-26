@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #eca63d repeat;
+  background: #e6c73f repeat;
   /*#a7ffeb repeat*/
   position: relative;
 }
@@ -474,7 +474,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #4d1200 !important;
 }
 /*#004d40*/
 
