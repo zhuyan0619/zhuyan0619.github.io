@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #883606;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -237,7 +237,8 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: rgb(202, 90, 16);
+  /*rgb(16, 202, 56)*/
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -320,7 +321,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #e6c73f repeat;
+  background: #f8965d repeat;
   /*#a7ffeb repeat*/
   position: relative;
 }
