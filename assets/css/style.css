@@ -220,7 +220,7 @@ dt {
 }
 
 ul.side-nav {
-  width: 190px;
+  width: 290px;
 }
 
 ul.side-nav li {
@@ -328,8 +328,7 @@ h3 {
 
 #intro.section .container {
   color: white;
-  width: 30;
-  font-weight: 500;
+  font-weight: 200;
   left: 0;
   position: absolute;
   top: 0;
