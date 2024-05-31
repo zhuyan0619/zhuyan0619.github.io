@@ -201,7 +201,7 @@ nav i {
 
 main {
   background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
+  padding-left: 2500px;
 }
 
 dl {
@@ -220,7 +220,7 @@ dt {
 }
 
 ul.side-nav {
-  width: 290px;
+  width: 250px;
 }
 
 ul.side-nav li {
@@ -241,7 +241,7 @@ ul.side-nav.fixed a {
   /*rgb(16, 202, 56)*/
   display: block;
   line-height: 100%;
-  padding: 10px 0 12px;
+  padding: 12px 0 12px;
 }
 
 ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
