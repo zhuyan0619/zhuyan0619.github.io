@@ -15,6 +15,9 @@ When I’m not immersed in research, I enjoy hiking, reading, and playing board 
 
 Please feel free to reach out to me by email at zhuyan14 [at] berkeley [dot] edu.
 
-<!-- Research Interests
+<!-- Education
+======
+
+Research Interests
 ======
 TODO -->

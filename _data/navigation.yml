@@ -11,8 +11,14 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
+  - title: "Professional Experiences"
+    url: /experiences/
+
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Awards"
+    url: /awards/
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -20,8 +26,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/

@@ -81,6 +81,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  workshops:
+    title: 'Workshops & Poster Sessions'
   talks:
     title: 'Conference Talks'
 
