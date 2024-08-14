@@ -15,6 +15,12 @@ When I’m not immersed in research, I enjoy hiking, reading, and playing board 
 
 Please feel free to reach out to me by email at zhuyan14 [at] berkeley [dot] edu.
 
+
+Education
+======
+* Ph.D in Electrical Engineering and Computer Sciences (Computer Architecture Major), University of California, Berkeley, 2024 Aug. -- 2029 May (expected)
+* B.A.S. in Engineering Science Program (Machine Intelligence Major), University of Toronto, 2019 Sep. -- 2024 May
+
 <!-- Education
 ======
 
