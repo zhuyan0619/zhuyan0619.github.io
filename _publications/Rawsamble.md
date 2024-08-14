@@ -7,7 +7,7 @@ excerpt: 'Bioinformatics \| Genomic Analysis Algorithm \| AI for Healthcare'
 date: 2024-07-14
 venue: "32nd ISCB Conference on Intelligent Systems for Molecular Biology (ISMB)"
 location: "Montreal, Quebec, Canada"
-citation: "Can Firtina, Maximilian Mordig, Joël Lindegger, Harun Mustafa, Sayan Goswami, Stefano Mercogliano, Yan Zhu, Andre Kahles, Onur Mutlu"
+citation: "Can Firtina, Maximilian Mordig, Joël Lindegger, Harun Mustafa, Sayan Goswami, Stefano Mercogliano, <u>Yan Zhu</u>, Andre Kahles, Onur Mutlu"
 ---
 
 Presentation Overview: Although raw nanopore signal mapping to a reference genome is widely studied to achieve highly accurate and fast mapping of raw signals, mapping to a reference genome is not possible when the corresponding reference genome of an organism is either unknown or does not exist. To circumvent such cases, all-vs-all overlapping is performed to construct de novo assembly from overlapping information. However, such an all-vs-all overlapping of raw nanopore signals remains unsolved due to its unique challenges such 1) generating multiple and accurate mapping pairs per read, 2) performing similarity search between a pair of noisy raw signals, and 3) performing space- and compute-efficient operations for portability and real-time analysis.
