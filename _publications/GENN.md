@@ -5,7 +5,7 @@ category: workshops
 permalink: /publication/GENN
 excerpt: 'Computer Architecture \| ML Compilation Framework \| Edge AI'
 date: 2023-10-30
-venue: '56th IEEE/ACM International Symposium on Microarchitecture Student Research Competition(MICRO SRC)'
+venue: '56th IEEE/ACM International Symposium on Microarchitecture, Student Research Competition (MICRO SRC)'
 slidesurl: 'http://zhuyan0619.github.io/files/GENN_presentation.pdf'
 paperurl: 'http://zhuyan0619.github.io/files/GENN_paper.pdf'
 citation: 'Yan Zhu, Kaija Mikes, Karthik Ganesan, Natalie Enright Jerger'
