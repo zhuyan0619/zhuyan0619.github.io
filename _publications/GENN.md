@@ -3,9 +3,9 @@ title: "GENN: Enable Flexible and Efficient AI for Resource-Constrained Platform
 collection: publications
 category: workshops
 permalink: /publication/GENN
-excerpt: 'GENN is an automatic PyTorch-to-C model conversion pipeline with a high degree of generality, flexibility, and usability.'
+# excerpt: 'GENN is an automatic PyTorch-to-C model conversion pipeline with a high degree of generality, flexibility, and usability.'
 date: 2023-10-30
-venue: '56th IEEE/ACM International Symposium on Microarchitecture Student Research Competition(MICRO SRC 2023)'
+venue: '56th IEEE/ACM International Symposium on Microarchitecture Student Research Competition(MICRO SRC)'
 slidesurl: 'http://zhuyan0619.github.io/files/GENN_presentation.pptx'
 paperurl: 'http://zhuyan0619.github.io/files/GENN_paper.pdf'
 citation: 'Yan Zhu, Kaija Mikes, Karthik Ganesan, Natalie Enright Jerger'
