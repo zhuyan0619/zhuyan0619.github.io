@@ -3,7 +3,7 @@ title: "A Scalable Architecture for Reprioritizing Ordered Parallelism"
 collection: publications
 category: conferences
 permalink: /publication/HIVE
-excerpt: 'Computer Architecture \| Execution Model & Multicore Architecture \| Speculative Execution'
+excerpt: 'Keywords: Computer Architecture \| Execution Model & Multicore Architecture \| Speculative Execution'
 date: 2022-06-19
 venue: '49th IEEE/ACM International Symposium on Computer Architecture (ISCA)'
 slidesurl: 'http://zhuyan0619.github.io/files/HIVE_presentation.pdf'

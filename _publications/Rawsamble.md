@@ -3,7 +3,7 @@ title: "Rawsamble: Overlapping and Assembling Raw Nanopore Signals using a Hash-
 collection: publications
 category: "talks"
 permalink: /publication/Rawsamble
-excerpt: 'Bioinformatics \| Genomic Analysis Algorithm \| AI for Healthcare'
+excerpt: 'Keywords: Bioinformatics \| Genomic Analysis Algorithm \| AI for Healthcare'
 date: 2024-07-14
 venue: "32nd ISCB Conference on Intelligent Systems for Molecular Biology (ISMB)"
 location: "Montreal, Quebec, Canada"

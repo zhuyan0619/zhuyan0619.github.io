@@ -3,7 +3,7 @@ title: "Seeing the Big Picture: Using Artificial Intelligence to Reconstruct the
 collection: publications
 category: "talks"
 permalink: /publication/Vascular
-excerpt: 'AI for Healthcare'
+excerpt: 'Keywords: AI for Healthcare'
 venue: "Canadian Cardiovascular Society, Vascular"
 date: 2023-10-29
 location: "Montreal, Quebec, Canada"

@@ -3,7 +3,7 @@ title: "Novel Approaches in 12-Lead Electrocardiogram Signal Reconstruction"
 collection: publications
 category: "talks"
 permalink: /publication/TCAIREM
-excerpt: 'AI for Healthcare'
+excerpt: 'Keywords: AI for Healthcare'
 venue: "T-CAIREM AI in Medicine Conference"
 date: 2023-10-13
 location: "Toronto, Ontario, Canada"
