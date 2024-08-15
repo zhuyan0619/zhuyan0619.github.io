@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I’m Yan, a first-year PhD student in Electrical Engineering and Computer Sciences (EECS) at UC Berkeley, working with Professor Christopher Fletcher. Before coming to Berkeley, I spent eight years in Toronto, where I completed high school and earned a B.A.S. in Engineering Science with a major in Machine Intelligence.
+Hi there! I’m Yan, a first-year PhD student in Electrical Engineering and Computer Sciences (EECS) at UC Berkeley, working with [Professor Christopher Fletcher](https://cwfletcher.github.io/). Before coming to Berkeley, I spent eight years in Toronto, where I completed high school and earned a B.A.S. in Engineering Science with a major in Machine Intelligence.
 
 During my undergrad, I had the chance to work on some exciting projects with professors from the University of Toronto and ETH Zurich, which sparked my passion for computer architecture.
 
