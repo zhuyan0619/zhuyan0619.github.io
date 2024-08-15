@@ -4,7 +4,7 @@ collection: publications
 category: "talks"
 permalink: /publication/Vascular
 excerpt: 'AI for Healthcare'
-venue: "2023 T-CAIREM AI in Medicine Conference"
+venue: "Canadian Cardiovascular Society, Vascular"
 date: 2023-10-29
 location: "Montreal, Quebec, Canada"
 citation: Christopher Cheung, <u>Yan Zhu</u>, Rahul G. Krishnan

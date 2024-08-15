@@ -4,7 +4,7 @@ collection: publications
 category: "talks"
 permalink: /publication/TCAIREM
 excerpt: 'AI for Healthcare'
-venue: "2023 T-CAIREM AI in Medicine Conference"
+venue: "T-CAIREM AI in Medicine Conference"
 date: 2023-10-13
 location: "Toronto, Ontario, Canada"
 citation: <u>Yan Zhu</u>, Chunsheng Zuo, Guanghan Wang, Yunhao Qian, Christopher Cheung
