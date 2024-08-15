@@ -12,17 +12,15 @@ author_profile: true
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023, May – Sep. : Undergraduate Research Assistant
+  * University of Toronto, Computer Engineering Group
+  * Supervisor: Professor Natalie Enright Jerger
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022, May – 23 Apr.: FPGA Software Engineer
+  * Intel Corporation, Tools and Modeling Team
+  * Manager: Jeff Ng
+
+* 2021, May – 22 Mar.: Undergraduate Research Assistant
+  * University of Toronto, Computer Engineering Group
+  * Supervisor: Professor Mark C. Jeffrey
